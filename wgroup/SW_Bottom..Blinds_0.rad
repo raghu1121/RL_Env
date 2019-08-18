@@ -1,0 +1,16 @@
+# Created by Honeybee[+] at 2018-02-05 13:18:57
+# www.ladybug.tools
+
+void BSDF R2_SolarBlinds_0
+6 0.000 /Users/raghuramkalyanam/Desktop/trnsys_seminar/shoebox_model/xmls/R2_SolarBlinds_0.xml 0.010 0.010 1.000 .
+0
+0
+
+R2_SolarBlinds_0 polygon SW_Bottom
+0
+0
+12
+0.1 0.0 0.15
+4.9 0.0 0.15
+4.9 0.0 1.15
+0.1 0.0 1.15
